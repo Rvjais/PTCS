@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "1",
+    "name": "1",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/1.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/1.webp"
+  },
+  {
+    "id": "51asotuvafl__ac_uf894_1000_ql80_",
+    "name": "51ASOTuVafL. AC UF894,1000 QL80 ",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/51ASOTuVafL._AC_UF894,1000_QL80_.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/51ASOTuVafL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": "6_seater_stainless_steel_canteen_table20230801094602",
+    "name": "6 seater stainless steel canteen table20230801094602",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/6-seater-stainless-steel-canteen-table20230801094602.jpeg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/6-seater-stainless-steel-canteen-table20230801094602.jpeg"
+  },
+  {
+    "id": "img_20191001_wa0007",
+    "name": "IMG 20191001 WA0007",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/IMG-20191001-WA0007.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/IMG-20191001-WA0007.jpg"
+  },
+  {
+    "id": "img_20191001_wa0009",
+    "name": "IMG 20191001 WA0009",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/IMG-20191001-WA0009.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/IMG-20191001-WA0009.jpg"
+  },
+  {
+    "id": "ss_canteen_table_with_benches_",
+    "name": "SS Canteen Table With Benches.",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/SS-Canteen-Table-With-Benches..jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/SS-Canteen-Table-With-Benches..jpg"
+  },
+  {
+    "id": "commercial_ss_bain_marie",
+    "name": "commercial ss bain marie",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/commercial-ss-bain-marie.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/commercial-ss-bain-marie.jpg"
+  },
+  {
+    "id": "hospital_canteen_kitchen_equipment_setup_500x500",
+    "name": "hospital canteen kitchen equipment setup 500x500",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/hospital-canteen-kitchen-equipment-setup-500x500.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/hospital-canteen-kitchen-equipment-setup-500x500.webp"
+  },
+  {
+    "id": "stainless_steel_cash_counter_table",
+    "name": "stainless steel cash counter table",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/stainless-steel-cash-counter-table.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/stainless-steel-cash-counter-table.jpg"
+  },
+  {
+    "id": "stainless_steel_service_table_250x250",
+    "name": "stainless steel service table 250x250",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Cafeteria Furniture",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/stainless-steel-service-table-250x250.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Cafeteria Furniture/stainless-steel-service-table-250x250.webp"
+  },
+  {
+    "id": "dustbin_trolley",
+    "name": "Dustbin trolley",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/Dustbin trolley.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/Dustbin trolley.webp"
+  },
+  {
+    "id": "food_dehydrator_centrifugal_dryer_slag_water_separator",
+    "name": "Food dehydrator centrifugal dryer slag water separator",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/Food dehydrator centrifugal dryer slag water separator.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/Food dehydrator centrifugal dryer slag water separator.jpg"
+  },
+  {
+    "id": "production_tools",
+    "name": "Production Tools",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/Production-Tools.png",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/Production-Tools.png"
+  },
+  {
+    "id": "ss_mixing___storage__blending_tank",
+    "name": "SS mixing , storage, blending tank",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/SS mixing , storage, blending tank.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/SS mixing , storage, blending tank.jpg"
+  },
+  {
+    "id": "stainless_steel_storage_tank_for_chemical_industry",
+    "name": "Stainless Steel Storage Tank For Chemical Industry",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/Stainless-Steel-Storage-Tank-For-Chemical-Industry.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/Stainless-Steel-Storage-Tank-For-Chemical-Industry.jpg"
+  },
+  {
+    "id": "textile_industry_jiggar_dyeing_job_work",
+    "name": "Textile industry jiggar dyeing job work",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/Textile industry jiggar-dyeing-job-work.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/Textile industry jiggar-dyeing-job-work.webp"
+  },
+  {
+    "id": "tray_trolley",
+    "name": "Tray Trolley",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/Tray Trolley.jpeg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/Tray Trolley.jpeg"
+  },
+  {
+    "id": "container_type_soiled_dish_trolley_250x250",
+    "name": "container type soiled dish trolley 250x250",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/container-type-soiled-dish-trolley-250x250.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/container-type-soiled-dish-trolley-250x250.webp"
+  },
+  {
+    "id": "jigger_machine",
+    "name": "jigger machine",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/jigger-machine.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/jigger-machine.jpg"
+  },
+  {
+    "id": "rectangular_polished_surface_stainless_steel_tray_trolley_for_industrial_use_801",
+    "name": "rectangular polished surface stainless steel tray trolley for industrial use 801",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/rectangular-polished-surface-stainless-steel-tray-trolley-for-industrial-use-801.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/rectangular-polished-surface-stainless-steel-tray-trolley-for-industrial-use-801.jpg"
+  },
+  {
+    "id": "ro_water_storage_tank",
+    "name": "ro water storage tank",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/ro-water-storage-tank.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/ro-water-storage-tank.webp"
+  },
+  {
+    "id": "ss_waste_collection_trolley_500x500",
+    "name": "ss waste collection trolley 500x500",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/ss-waste-collection-trolley-500x500.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/ss-waste-collection-trolley-500x500.webp"
+  },
+  {
+    "id": "stainless_steel_reaction_vessel_500x500",
+    "name": "stainless steel reaction vessel 500x500",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/stainless-steel-reaction-vessel-500x500.webp",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/stainless-steel-reaction-vessel-500x500.webp"
+  },
+  {
+    "id": "stainless_steel_vessels",
+    "name": "stainless steel vessels",
+    "category": "Food Indutries Furniture",
+    "subcategory": "Food Industries",
+    "image": "/src/assets/Products and Services/Food Indutries Furniture/Food Industries/stainless-steel-vessels.jpg",
+    "importPath": "../assets/Products and Services/Food Indutries Furniture/Food Industries/stainless-steel-vessels.jpg"
+  },
+  {
+    "id": "fb_img_1611248082832",
+    "name": "FB IMG 1611248082832",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/FB_IMG_1611248082832.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/FB_IMG_1611248082832.jpg"
+  },
+  {
+    "id": "img_20200405_wa0008",
+    "name": "IMG 20200405 WA0008",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG-20200405-WA0008.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG-20200405-WA0008.jpg"
+  },
+  {
+    "id": "img_20201119_wa0006",
+    "name": "IMG 20201119 WA0006",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG-20201119-WA0006.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG-20201119-WA0006.jpg"
+  },
+  {
+    "id": "img_20201119_wa0008",
+    "name": "IMG 20201119 WA0008",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG-20201119-WA0008.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG-20201119-WA0008.jpg"
+  },
+  {
+    "id": "img_20201119_wa0010",
+    "name": "IMG 20201119 WA0010",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG-20201119-WA0010.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG-20201119-WA0010.jpg"
+  },
+  {
+    "id": "img_20221012_wa0001",
+    "name": "IMG 20221012 WA0001",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG-20221012-WA0001.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG-20221012-WA0001.jpg"
+  },
+  {
+    "id": "img_20191112_124922",
+    "name": "IMG 20191112 124922",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG_20191112_124922.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG_20191112_124922.jpg"
+  },
+  {
+    "id": "img_20191112_155956",
+    "name": "IMG 20191112 155956",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/IMG_20191112_155956.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/IMG_20191112_155956.jpg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_01_51_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.01.51 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.01.51 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.01.51 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_01_58_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.01.58 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.01.58 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.01.58 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_09_06_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.09.06 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.09.06 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.09.06 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_12_41_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.12.41 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.12.41 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.12.41 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_12_41_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.12.41 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.12.41 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.12.41 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_14_51_am__2_",
+    "name": "WhatsApp Image 2022 09 28 at 11.14.51 AM (2)",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.14.51 AM (2).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.14.51 AM (2).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_37_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.37 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.17.37 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.17.37 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_48_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.48 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.17.48 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.17.48 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_48_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.48 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.17.48 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.17.48 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_46_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.46 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.20.46 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.20.46 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_46_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.46 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.20.46 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.20.46 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_49_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.49 AM",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.20.49 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/WhatsApp Image 2022-09-28 at 11.20.49 AM.jpeg"
+  },
+  {
+    "id": "thpzdwpsw1",
+    "name": "thPZDWPSW1",
+    "category": "Healthcare",
+    "subcategory": "Scrub station",
+    "image": "/src/assets/Products and Services/Healthcare/Scrub station/thPZDWPSW1.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Scrub station/thPZDWPSW1.jpg"
+  },
+  {
+    "id": "1",
+    "name": "1",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/1.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/1.jpg"
+  },
+  {
+    "id": "8_500x500",
+    "name": "8 500x500",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/8-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/8-500x500.jpg"
+  },
+  {
+    "id": "img_20190920_wa0011",
+    "name": "IMG 20190920 WA0011",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20190920-WA0011.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20190920-WA0011.jpg"
+  },
+  {
+    "id": "img_20190920_wa0015",
+    "name": "IMG 20190920 WA0015",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20190920-WA0015.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20190920-WA0015.jpg"
+  },
+  {
+    "id": "img_20230225_wa0012",
+    "name": "IMG 20230225 WA0012",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20230225-WA0012.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20230225-WA0012.jpg"
+  },
+  {
+    "id": "img_20230225_wa0015",
+    "name": "IMG 20230225 WA0015",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20230225-WA0015.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/IMG-20230225-WA0015.jpg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_02_14_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.02.14 AM",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.02.14 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.02.14 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_02_15_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.02.15 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.02.15 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.02.15 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_08_50_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.08.50 AM",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.50 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.50 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_08_53_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.08.53 AM",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.53 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.53 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_08_54_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.08.54 AM",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.54 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.54 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_08_56_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.08.56 AM",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.56 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.56 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_08_57_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.08.57 AM",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.57 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.08.57 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_46_am__2_",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.46 AM (2)",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.20.46 AM (2).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/WhatsApp Image 2022-09-28 at 11.20.46 AM (2).jpeg"
+  },
+  {
+    "id": "catheter_cabinet_stainless_steel_250x250",
+    "name": "catheter cabinet stainless steel 250x250",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/catheter-cabinet-stainless-steel-250x250.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/catheter-cabinet-stainless-steel-250x250.jpg"
+  },
+  {
+    "id": "product_jpeg_250x250",
+    "name": "product jpeg 250x250",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/product-jpeg-250x250.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/product-jpeg-250x250.webp"
+  },
+  {
+    "id": "ss_storing_cabinet_with_shelves_500x500",
+    "name": "ss storing cabinet with shelves 500x500",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/ss-storing-cabinet-with-shelves-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/ss-storing-cabinet-with-shelves-500x500.jpg"
+  },
+  {
+    "id": "stainless_steel_cathlab_cabinet_with_shelves_and_drawers_500x500",
+    "name": "stainless steel cathlab cabinet with shelves and drawers 500x500",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/stainless-steel-cathlab-cabinet-with-shelves-and-drawers-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/stainless-steel-cathlab-cabinet-with-shelves-and-drawers-500x500.jpg"
+  },
+  {
+    "id": "stainless_steel_for_cathter_and_guide_wires_holding_cabinet_cssd_500x500",
+    "name": "stainless steel for cathter and guide wires holding cabinet cssd 500x500",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/stainless-steel-for-cathter-and-guide-wires-holding-cabinet-cssd-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/stainless-steel-for-cathter-and-guide-wires-holding-cabinet-cssd-500x500.jpg"
+  },
+  {
+    "id": "thce93x14s",
+    "name": "thCE93X14S",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/thCE93X14S.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/thCE93X14S.jpg"
+  },
+  {
+    "id": "ths8hzeujq",
+    "name": "thS8HZEUJQ",
+    "category": "Healthcare",
+    "subcategory": "Cabinets",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Cabinets/thS8HZEUJQ.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Cabinets/thS8HZEUJQ.jpg"
+  },
+  {
+    "id": "img_20191022_wa0031",
+    "name": "IMG 20191022 WA0031",
+    "category": "Healthcare",
+    "subcategory": "Storage Units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/IMG-20191022-WA0031.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/IMG-20191022-WA0031.jpg"
+  },
+  {
+    "id": "2",
+    "name": "2",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/2.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/3.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/3.jpg"
+  },
+  {
+    "id": "img_20221012_wa0004",
+    "name": "IMG 20221012 WA0004",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/IMG-20221012-WA0004.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/IMG-20221012-WA0004.jpg"
+  },
+  {
+    "id": "img_20221012_wa0005",
+    "name": "IMG 20221012 WA0005",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/IMG-20221012-WA0005.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/IMG-20221012-WA0005.jpg"
+  },
+  {
+    "id": "ss_perforated_instrument_box",
+    "name": "SS perforated instrument box",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/SS perforated instrument box.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/SS perforated instrument box.jpg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_09_07_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.09.07 AM",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.09.07 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.09.07 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_09_13_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.09.13 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.09.13 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.09.13 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_55_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.55 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.17.55 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.17.55 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_39_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.39 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.20.39 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.20.39 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_44_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.44 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.20.44 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.20.44 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_48_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.48 AM",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.20.48 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/WhatsApp Image 2022-09-28 at 11.20.48 AM.jpeg"
+  },
+  {
+    "id": "thskzda3uv",
+    "name": "thSKZDA3UV",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/thSKZDA3UV.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/thSKZDA3UV.jpg"
+  },
+  {
+    "id": "untitled",
+    "name": "untitled",
+    "category": "Healthcare",
+    "subcategory": "Instrument organising units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Instrument organising units/untitled.png",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/untitled.png"
+  },
+  {
+    "id": "1",
+    "name": "1",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/1.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/1.jpg"
+  },
+  {
+    "id": "img_20191116_wa0008",
+    "name": "IMG 20191116 WA0008",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/IMG-20191116-WA0008.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/IMG-20191116-WA0008.jpg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_02_11_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.02.11 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.02.11 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.02.11 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_12_44_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.12.44 AM",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.12.44 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.12.44 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_43_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.43 AM",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.20.43 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.20.43 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_45_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.45 AM",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.20.45 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/WhatsApp Image 2022-09-28 at 11.20.45 AM.jpeg"
+  },
+  {
+    "id": "s_s_hospital_storing_rack_250x250",
+    "name": "s s hospital storing rack 250x250",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/s-s-hospital-storing-rack-250x250.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/s-s-hospital-storing-rack-250x250.webp"
+  },
+  {
+    "id": "stainless_storing_hospital_racks_500x500",
+    "name": "stainless storing hospital racks 500x500",
+    "category": "Healthcare",
+    "subcategory": "Rack",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Rack/stainless-storing-hospital-racks-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Rack/stainless-storing-hospital-racks-500x500.jpg"
+  },
+  {
+    "id": "img_20191001_wa0006",
+    "name": "IMG 20191001 WA0006",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/IMG-20191001-WA0006.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/IMG-20191001-WA0006.jpg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_02_07_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.02.07 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/WhatsApp Image 2022-09-28 at 11.02.07 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/WhatsApp Image 2022-09-28 at 11.02.07 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_20_47_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.20.47 AM",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/WhatsApp Image 2022-09-28 at 11.20.47 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/WhatsApp Image 2022-09-28 at 11.20.47 AM.jpeg"
+  },
+  {
+    "id": "floor_cabinet",
+    "name": "floor cabinet",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/floor cabinet.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/floor cabinet.jpeg"
+  },
+  {
+    "id": "illuminated_table",
+    "name": "illuminated Table",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/illuminated Table.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/illuminated Table.webp"
+  },
+  {
+    "id": "images",
+    "name": "images",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/images.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/images.jpg"
+  },
+  {
+    "id": "s_s_control_and_packing_table_500x500",
+    "name": "s s control and packing table 500x500",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/s-s-control-and-packing-table-500x500.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/s-s-control-and-packing-table-500x500.webp"
+  },
+  {
+    "id": "s_s_sealing_and_labeling_table_500x500",
+    "name": "s s sealing and labeling table 500x500",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/s-s-sealing-and-labeling-table-500x500.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/s-s-sealing-and-labeling-table-500x500.webp"
+  },
+  {
+    "id": "stainless_steel_working_packing_table_250x250",
+    "name": "stainless steel working packing table 250x250",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/stainless-steel-working-packing-table-250x250.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/stainless-steel-working-packing-table-250x250.webp"
+  },
+  {
+    "id": "stainless_storing_hospital_racks_500x500__2_",
+    "name": "stainless storing hospital racks 500x500 (2)",
+    "category": "Healthcare",
+    "subcategory": "Table",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Table/stainless-storing-hospital-racks-500x500 (2).jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Table/stainless-storing-hospital-racks-500x500 (2).jpg"
+  },
+  {
+    "id": "1635605268418_jpg_250x250",
+    "name": "1635605268418 jpg 250x250",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/1635605268418-jpg-250x250.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/1635605268418-jpg-250x250.webp"
+  },
+  {
+    "id": "enclosed_distribution_trolley",
+    "name": "Enclosed Distribution Trolley",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/Enclosed Distribution Trolley.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/Enclosed Distribution Trolley.jpeg"
+  },
+  {
+    "id": "img_20221003_wa0003",
+    "name": "IMG 20221003 WA0003",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/IMG-20221003-WA0003.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/IMG-20221003-WA0003.jpg"
+  },
+  {
+    "id": "s_s_anaesthesia_trolley__operation_theatre",
+    "name": "S.S Anaesthesia Trolley  Operation Theatre",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Anaesthesia Trolley  Operation Theatre.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Anaesthesia Trolley  Operation Theatre.jpg"
+  },
+  {
+    "id": "s_s_dry_linen_trolley_ward_general",
+    "name": "S.S Dry Linen Trolley Ward General",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Dry Linen Trolley Ward General.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Dry Linen Trolley Ward General.jpg"
+  },
+  {
+    "id": "s_s_food_trolley_ward_general",
+    "name": "S.S Food Trolley Ward General",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Food Trolley Ward General.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Food Trolley Ward General.jpg"
+  },
+  {
+    "id": "s_s_instrument_trolley_operation_theatre",
+    "name": "S.S Instrument Trolley Operation Theatre",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Instrument Trolley Operation Theatre.png",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/S.S Instrument Trolley Operation Theatre.png"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_09_11_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.09.11 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.09.11 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.09.11 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_09_11_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.09.11 AM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.09.11 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.09.11 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_12_32_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.12.32 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.12.32 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.12.32 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_12_44_am__2_",
+    "name": "WhatsApp Image 2022 09 28 at 11.12.44 AM (2)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.12.44 AM (2).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.12.44 AM (2).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_14_47_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.14.47 AM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.14.47 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.14.47 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_14_48_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.14.48 AM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.14.48 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.14.48 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_46_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.46 AM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.46 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.46 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_47_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.47 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.47 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.47 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_47_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.47 AM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.47 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.47 AM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_54_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.54 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.54 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.54 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_57_am__1_",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.57 AM (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.57 AM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.57 AM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2022_09_28_at_11_17_57_am",
+    "name": "WhatsApp Image 2022 09 28 at 11.17.57 AM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.57 AM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/WhatsApp Image 2022-09-28 at 11.17.57 AM.jpeg"
+  },
+  {
+    "id": "laparoscopy_trolley_500x500",
+    "name": "laparoscopy trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/laparoscopy-trolley-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/laparoscopy-trolley-500x500.jpg"
+  },
+  {
+    "id": "medical_equipment_trolley_500x500__1_",
+    "name": "medical equipment trolley 500x500 (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/medical-equipment-trolley-500x500 (1).jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/medical-equipment-trolley-500x500 (1).jpg"
+  },
+  {
+    "id": "medical_equipment_trolley_500x500",
+    "name": "medical equipment trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/medical-equipment-trolley-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/medical-equipment-trolley-500x500.jpg"
+  },
+  {
+    "id": "ot_drug_trolley_stainless_steel_250x250",
+    "name": "ot drug trolley stainless steel 250x250",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/ot-drug-trolley-stainless-steel-250x250.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/ot-drug-trolley-stainless-steel-250x250.webp"
+  },
+  {
+    "id": "s_s_enclosed_transport_trolley_250x250",
+    "name": "s s enclosed transport trolley 250x250",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/s-s-enclosed-transport-trolley-250x250.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/s-s-enclosed-transport-trolley-250x250.jpg"
+  },
+  {
+    "id": "stainless_steel_medicine_trolley_250x250",
+    "name": "stainless steel medicine trolley 250x250",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/stainless-steel-medicine-trolley-250x250.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/stainless-steel-medicine-trolley-250x250.jpg"
+  },
+  {
+    "id": "utility_trolley_two_shelves_stainless_steel_250x250",
+    "name": "utility trolley two shelves stainless steel 250x250",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/utility-trolley-two-shelves-stainless-steel-250x250.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/CSSD trolley/utility-trolley-two-shelves-stainless-steel-250x250.webp"
+  },
+  {
+    "id": "img_20191015_wa0009",
+    "name": "IMG 20191015 WA0009",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/IMG-20191015-WA0009.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/IMG-20191015-WA0009.jpg"
+  },
+  {
+    "id": "1575992475527",
+    "name": "1575992475527",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992475527.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992475527.jpg"
+  },
+  {
+    "id": "1575992484172",
+    "name": "1575992484172",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992484172.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992484172.jpg"
+  },
+  {
+    "id": "1575992484271",
+    "name": "1575992484271",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992484271.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992484271.jpg"
+  },
+  {
+    "id": "1575992484392",
+    "name": "1575992484392",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992484392.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992484392.jpg"
+  },
+  {
+    "id": "1575992486341",
+    "name": "1575992486341",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992486341.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992486341.jpg"
+  },
+  {
+    "id": "s_s_food_trolley_ward_general",
+    "name": "S.S Food Trolley Ward General",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/S.S Food Trolley Ward General.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/S.S Food Trolley Ward General.jpg"
+  },
+  {
+    "id": "instrument_trolley_500x500",
+    "name": "instrument trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/instrument-trolley-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/instrument-trolley-500x500.jpg"
+  },
+  {
+    "id": "instrument_trolley",
+    "name": "instrument trolley",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/instrument-trolley.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/instrument-trolley.jpg"
+  },
+  {
+    "id": "instrumental_trolley_500x500",
+    "name": "instrumental trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/instrumental-trolley-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/instrumental-trolley-500x500.jpg"
+  },
+  {
+    "id": "surgical_instrument_trolley_500x500",
+    "name": "surgical instrument trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/surgical-instrument-trolley-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Instrument Trolley/surgical-instrument-trolley-500x500.jpg"
+  },
+  {
+    "id": "1577085091605",
+    "name": "1577085091605",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085091605.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085091605.jpg"
+  },
+  {
+    "id": "1577085097847",
+    "name": "1577085097847",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085097847.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085097847.jpg"
+  },
+  {
+    "id": "1577085103511",
+    "name": "1577085103511",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085103511.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085103511.jpg"
+  },
+  {
+    "id": "1577085112405",
+    "name": "1577085112405",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085112405.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085112405.jpg"
+  },
+  {
+    "id": "1577085116457",
+    "name": "1577085116457",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085116457.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/1577085116457.jpg"
+  },
+  {
+    "id": "ptb_001",
+    "name": "PTB 001",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/PTB-001.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/PTB-001.jpg"
+  },
+  {
+    "id": "ptb_002",
+    "name": "PTB 002",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/PTB-002.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/PTB-002.jpg"
+  },
+  {
+    "id": "whatsapp_image_2020_03_14_at_5_23_28_pm__1_",
+    "name": "WhatsApp Image 2020 03 14 at 5.23.28 PM (1)",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/WhatsApp Image 2020-03-14 at 5.23.28 PM (1).jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/WhatsApp Image 2020-03-14 at 5.23.28 PM (1).jpeg"
+  },
+  {
+    "id": "whatsapp_image_2020_03_14_at_5_23_28_pm",
+    "name": "WhatsApp Image 2020 03 14 at 5.23.28 PM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/WhatsApp Image 2020-03-14 at 5.23.28 PM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/WhatsApp Image 2020-03-14 at 5.23.28 PM.jpeg"
+  },
+  {
+    "id": "whatsapp_image_2020_03_14_at_5_23_29_pm",
+    "name": "WhatsApp Image 2020 03 14 at 5.23.29 PM",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/WhatsApp Image 2020-03-14 at 5.23.29 PM.jpeg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/WhatsApp Image 2020-03-14 at 5.23.29 PM.jpeg"
+  },
+  {
+    "id": "s_s_heavy_duty_food_grain_transfer_trolley_250x250",
+    "name": "s s heavy duty food grain transfer trolley 250x250",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/s-s-heavy-duty-food-grain-transfer-trolley-250x250.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Laundary Trolley/s-s-heavy-duty-food-grain-transfer-trolley-250x250.jpg"
+  },
+  {
+    "id": "11",
+    "name": "11",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/11.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/11.jpg"
+  },
+  {
+    "id": "ecg_trolley",
+    "name": "ECG Trolley",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/ECG Trolley.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/ECG Trolley.jpg"
+  },
+  {
+    "id": "mayo_trolley_double_pillar",
+    "name": "Mayo Trolley double pillar",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/Mayo Trolley double pillar.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/Mayo Trolley double pillar.jpg"
+  },
+  {
+    "id": "mayo_trolley_single_pillar",
+    "name": "Mayo Trolley single pillar",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/Mayo Trolley single pillar.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/Mayo Trolley single pillar.jpg"
+  },
+  {
+    "id": "mayo_trolley",
+    "name": "Mayo trolley",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/Mayo trolley.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Mayo Trolley/Mayo trolley.jpg"
+  },
+  {
+    "id": "1575992483662",
+    "name": "1575992483662",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992483662.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992483662.jpg"
+  },
+  {
+    "id": "1575992483979",
+    "name": "1575992483979",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992483979.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992483979.jpg"
+  },
+  {
+    "id": "1575992486231",
+    "name": "1575992486231",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992486231.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992486231.jpg"
+  },
+  {
+    "id": "1575992486441",
+    "name": "1575992486441",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992486441.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/1575992486441.jpg"
+  },
+  {
+    "id": "platform_trolley",
+    "name": "Platform Trolley",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/Platform Trolley.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Platform Trolley/Platform Trolley.jpg"
+  },
+  {
+    "id": "ss_enclosed_distribution_trolley_for_sterile_goods",
+    "name": "SS ENCLOSED DISTRIBUTION TROLLEY FOR STERILE GOODS",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/SS-ENCLOSED-DISTRIBUTION-TROLLEY-FOR-STERILE-GOODS.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/SS-ENCLOSED-DISTRIBUTION-TROLLEY-FOR-STERILE-GOODS.webp"
+  },
+  {
+    "id": "paper_dispensing_trolley",
+    "name": "paper dispensing trolley",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/paper dispensing trolley.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/paper dispensing trolley.webp"
+  },
+  {
+    "id": "stainless_steel_platform_trolley_500x500",
+    "name": "stainless steel platform trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/stainless-steel-platform-trolley-500x500.jpg",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/stainless-steel-platform-trolley-500x500.jpg"
+  },
+  {
+    "id": "wet_and_dry_linen_trolley_500x500",
+    "name": "wet and dry linen trolley 500x500",
+    "category": "Healthcare",
+    "subcategory": "Trolley",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/Trolley/wet-and-dry-linen-trolley-500x500.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/wet-and-dry-linen-trolley-500x500.webp"
+  },
+  {
+    "id": "s_s_modular_basket_500x500",
+    "name": "s s modular basket 500x500",
+    "category": "Healthcare",
+    "subcategory": "Storage Units",
+    "image": "/src/assets/Products and Services/Healthcare/Storage Units/s-s-modular-basket-500x500.webp",
+    "importPath": "../assets/Products and Services/Healthcare/Storage Units/s-s-modular-basket-500x500.webp"
+  },
+  {
+    "id": "surg_inst_01",
+    "name": "Precision Surgical Scissor Set",
+    "category": "Surgical Items",
+    "subcategory": "Surgical Instruments",
+    "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&q=80&w=800",
+    "importPath": ""
+  },
+  {
+    "id": "surg_inst_02",
+    "name": "Stainless Steel Forceps",
+    "category": "Surgical Items",
+    "subcategory": "Surgical Instruments",
+    "image": "https://images.unsplash.com/photo-1583912267670-6575ad43263d?auto=format&fit=crop&q=80&w=800",
+    "importPath": ""
+  },
+  {
+    "id": "ot_light_01",
+    "name": "LED OT Light Double Dome",
+    "category": "Surgical Items",
+    "subcategory": "OT Equipment",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=800",
+    "importPath": ""
+  },
+  {
+    "id": "ot_table_01",
+    "name": "Hydraulic Operation Table",
+    "category": "Surgical Items",
+    "subcategory": "OT Equipment",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=800",
+    "importPath": ""
+  },
+  {
+    "id": "surg_disp_01",
+    "name": "Sterile Surgical Gloves Box",
+    "category": "Surgical Items",
+    "subcategory": "Disposables",
+    "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&q=80&w=800",
+    "importPath": ""
+  },
+  {
+    "id": "surg_mask_01",
+    "name": "N95 Surgical Masks",
+    "category": "Surgical Items",
+    "subcategory": "Disposables",
+    "image": "https://images.unsplash.com/photo-1584634731339-252c581abfc5?auto=format&fit=crop&q=80&w=800",
+    "importPath": ""
+  }
+]
