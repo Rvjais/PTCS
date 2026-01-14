@@ -53,6 +53,7 @@ const Contact = () => {
                                 src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&q=80&w=2070"
                                 alt="Office"
                                 className="absolute inset-0 w-full h-full object-cover"
+                                loading="lazy"
                             />
                         </div>
                     </div>

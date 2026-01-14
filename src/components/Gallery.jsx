@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronLeft, ChevronRight, Play } from 'lucide-react';
 import galleryVideo from '../assets/gallery/Poojatech1.mp4';
+import LazyVideo from './LazyVideo';
 
 const videos = [
     {
@@ -105,13 +106,11 @@ const Gallery = () => {
                                         className="relative group"
                                     >
                                         <div className="relative rounded-xl overflow-hidden aspect-video bg-black border border-secondary-800 shadow-xl">
-                                            <video
+                                            <LazyVideo
+                                                src={video.src}
                                                 className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-300"
-                                                controls // Keep controls for functionality
-                                                poster=""
-                                            >
-                                                <source src={video.src} type="video/mp4" />
-                                            </video>
+                                                controls
+                                            />
 
                                             {/* Overlay Info */}
                                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent p-4 pointer-events-none">
