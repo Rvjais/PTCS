@@ -1,10 +1,11 @@
 import React, { useState, useMemo } from 'react';
 import { useLocation } from 'react-router-dom';
 import ProductCard from '../components/ProductCard';
-import productsData from '../data/products.json';
+import { useProducts } from '../context/ProductContext';
 import { Search, Filter } from 'lucide-react';
 
 const Products = () => {
+    const { products: productsData } = useProducts();
     const location = useLocation();
     const queryParams = new URLSearchParams(location.search);
     const initialCategory = queryParams.get('category');

@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "1_cafeteria_furniture",
     "name": "1",
     "category": "Food Indutries Furniture",
     "subcategory": "Cafeteria Furniture",
@@ -360,7 +360,7 @@
     "importPath": "../assets/Products and Services/Healthcare/Scrub station/thPZDWPSW1.jpg"
   },
   {
-    "id": "1",
+    "id": "1_cabinets",
     "name": "1",
     "category": "Healthcare",
     "subcategory": "Cabinets",
@@ -640,7 +640,7 @@
     "importPath": "../assets/Products and Services/Healthcare/Storage Units/Instrument organising units/untitled.png"
   },
   {
-    "id": "1",
+    "id": "1_rack",
     "name": "1",
     "category": "Healthcare",
     "subcategory": "Rack",
@@ -1040,7 +1040,7 @@
     "importPath": "../assets/Products and Services/Healthcare/Storage Units/Trolley/Industrial multipurpose heavy duty trolley/1575992486341.jpg"
   },
   {
-    "id": "s_s_food_trolley_ward_general",
+    "id": "s_s_food_trolley_ward_general_instrument",
     "name": "S.S Food Trolley Ward General",
     "category": "Healthcare",
     "subcategory": "Trolley",

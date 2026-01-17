@@ -1,10 +1,11 @@
 import React from 'react';
 import Hero from '../components/Hero';
 import CategorySection from '../components/CategorySection';
-import products from '../data/products.json';
+import { useProducts } from '../context/ProductContext';
 import Gallery from '../components/Gallery';
 
 const Home = () => {
+    const { products } = useProducts();
     // Extract unique categories for the category section
     // We'll pick a few representative images for the categories
     const categories = [
