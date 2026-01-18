@@ -19,7 +19,11 @@ app.use('/api/products', productRoutes);
 
 // Database Connection
 // Database Connection (Removed - using file system)
-app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
-});
+if (process.env.NODE_ENV !== 'production') {
+    app.listen(PORT, () => {
+        console.log(`Server running on port ${PORT}`);
+    });
+}
+
+export default app;
 
