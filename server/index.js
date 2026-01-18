@@ -1,5 +1,5 @@
 import express from 'express';
-
+import mongoose from 'mongoose';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import productRoutes from './routes/productRoutes.js';
@@ -18,12 +18,18 @@ app.use(express.json({ limit: '50mb' })); // Increased limit for base64 images
 app.use('/api/products', productRoutes);
 
 // Database Connection
-// Database Connection (Removed - using file system)
-if (process.env.NODE_ENV !== 'production') {
-    app.listen(PORT, () => {
-        console.log(`Server running on port ${PORT}`);
+mongoose.connect(MONGO_URI)
+    .then(() => {
+        console.log('Connected to MongoDB');
+        if (process.env.NODE_ENV !== 'production') {
+            app.listen(PORT, () => {
+                console.log(`Server running on port ${PORT}`);
+            });
+        }
+    })
+    .catch((err) => {
+        console.error('MongoDB connection error:', err);
     });
-}
 
 export default app;
 
