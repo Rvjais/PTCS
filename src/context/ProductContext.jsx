@@ -10,7 +10,7 @@ export const ProductProvider = ({ children }) => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
-    const API_URL = 'http://localhost:5000/api/products';
+    const API_URL = '/api/products';
 
     const fetchProducts = async () => {
         try {
